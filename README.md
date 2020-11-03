@@ -1,1 +1,1 @@
-# board-_list
+# board_list
